@@ -15,7 +15,7 @@ A small set of Bash scripts that automate common Linux admin tasks:
 1 Clone this repo
 2 Go to scripts folder 
 3 run {chmod +x *.sh}
-4 Execute each scropt with sudo
+4 Execute each Scripts with sudo
 
 Example 
 
